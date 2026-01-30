@@ -22,6 +22,7 @@ export default function AuthPage() {
       <div className="w-full max-w-md">
         {/* Logo Section */}
         <div className="text-center mb-8 relative z-10">
+          <h1 className="text-2xl font-bold text-white mb-2">FUCK FUCK FUCK</h1>
           <div className="inline-flex items-center justify-center mb-4">
             <div
               className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 rounded-full flex items-center justify-center"
