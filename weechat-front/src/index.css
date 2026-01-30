@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@tailwind components;
+@tailwind base;  /* resets and base styles */
+@tailwind utilities; /* Optional: custom global styles */
+
+body {
+  margin: 0;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-color: #1f1f1f; /* fallback background */
+}
